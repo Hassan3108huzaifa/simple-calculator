@@ -1,0 +1,17 @@
+{
+  "name": "hassanrj-simple-calculator",
+  "version": "1.0.1",
+  "description": "This is a simple without style calculator",
+  "main": "index.js",
+  "bin": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.16"
+  }
+}
